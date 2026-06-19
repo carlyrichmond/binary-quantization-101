@@ -4,7 +4,7 @@ Resources for Binary Quantization 101 talk, specifically BBQ. This talk has been
 
 ## Slides
 
-See [here]().
+See [here](information-retrieval-london-binary-quantization-101.pdf).
 
 ## Resources
 
