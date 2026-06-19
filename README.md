@@ -16,6 +16,7 @@ See [here]().
 4. [RaBitQ: Quantizing High-Dimensional Vectors with a Theoretical Error Bound for Approximate Nearest Neighbor Search | Jianyang Gao and Cheng Long](https://arxiv.org/pdf/2405.12497)
 5. [RaBitQ binary quantization 101 | John Wagster @ Elasticsearch Labs](https://www.elastic.co/search-labs/blog/rabitq-explainer-101)
 6. [Bit vectors in Elasticsearch | Benjamin Trent @ Elasticsearch Labs](https://www.elastic.co/search-labs/blog/bit-vectors-in-elasticsearch)
+7. [Optimized Scalar Quantization: Improving Better Binary Quantization (BBQ) | Benjamin Trent @ Elasticsearch Labs](https://www.elastic.co/search-labs/blog/optimized-scalar-quantization-elasticsearch)
 
 ### DiskBBQ
 
